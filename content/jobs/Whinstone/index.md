@@ -1,7 +1,7 @@
 ---
 date: '2019-08-21'
 title: 'Junior React Developer'
-company: 'Whinestone'
+company: 'Whinstone'
 location: 'Islamabad, PK'
 range: 'Oct - February 2020'
 url: 'https://whinstone.co/'
